@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Tushar Rathore
+tagline: Direct Response Copywriter
+featuredImage: /assets/screenshot-1-.png
 cta:
   ctaText: Know more
   ctaLink: /about
